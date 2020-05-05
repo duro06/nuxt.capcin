@@ -20,17 +20,19 @@
     "jsonwebtoken": "^8.5.1",
     "laravel-echo": "^1.7.0",
     "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
     "pusher-js": "^5.1.1",
     "vue-carousel": "^0.18.0",
     "vue-infinite-scroll": "^2.0.2",
-    "vue-loading-overlay": "^3.3.2",
-    "nuxt": "^2.0.0"
+    "vue-loading-overlay": "^3.3.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
     "@nuxtjs/eslint-module": "^1.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2"
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
   }
 }
