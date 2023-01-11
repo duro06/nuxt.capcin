@@ -17,7 +17,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "@smartweb/vue-flash-message": "^0.6.4",
     "bulma-badge": "^3.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "laravel-echo": "^1.7.0",
     "moment": "^2.24.0",
     "nuxt": "^2.0.0",
